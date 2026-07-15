@@ -5,7 +5,7 @@ Full Stack Web Developer • Java Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://i.pinimg.com/736x/b8/b2/d3/b8b2d3abc9b9ce9e827ddb37f31d80cf.jpg" width="250"/>
+<img src="[https://i.pinimg.com/736x/b8/b2/d3/b8b2d3abc9b9ce9e827ddb37f31d80cf.jpg](https://chatgpt.com/s/m_6a57dc5786e48191a5282fe832669dfb)" width="250"/>
 </p>
 
 <p align="center">
@@ -16,18 +16,19 @@ Full Stack Web Developer • Java Developer • DSA Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about Full Stack Development
+- 🎓 B.Tech Computer Science Student
+- 💼 Aspiring Software Engineer
 - 🌱 Currently learning **DSA, React, Node.js and System Design**
-- 🚀 Interested in Software Development & Backend Engineering
-- 🎯 Solving LeetCode problems daily
-- 📫 Reach me at prashantchadha58@gmail.com
+- 🚀 Passionate about Full Stack Development
+- 💡 Love building scalable web applications
+- 🎯 Solving LeetCode daily to improve problem-solving skills
+- 📫 Email: **prashantchadha58@gmail.com**
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/prashant-chadha-10b9b9323/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -117,5 +118,5 @@ Research project using HOG + SVM for automatic flatfoot detection.
 </p>
 
 ---
-
+"Consistency beats intensity. Keep learning, keep building."
 ⭐ Thanks for visiting my GitHub profile!
