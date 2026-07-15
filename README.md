@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Chadha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Web Developer | Java | React | Node.js | DSA</h3>
 <img width="300" height="300" src="https://i.pinimg.com/736x/b8/b2/d3/b8b2d3abc9b9ce9e827ddb37f31d80cf.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantchadha-18&label=Profile%20views&color=0e75b6&style=flat" alt="prashantchadha-18" /> </p>
