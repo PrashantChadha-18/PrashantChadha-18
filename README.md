@@ -5,7 +5,7 @@ Full Stack Web Developer • Java Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b8/b2/d3/b8b2d3abc9b9ce9e827ddb37f31d80cf.jpg" width="250"/>
+  <img src="[https://i.pinimg.com/736x/b8/b2/d3/b8b2d3abc9b9ce9e827ddb37f31d80cf.jpg](https://github.com/PrashantChadha-18/PrashantChadha-18/blob/main/github-banner.png.png)" width="250"/>
 </p>
 
 <p align="center">
