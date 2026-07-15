@@ -1,22 +1,121 @@
 <h1 align="center">Hi 👋, I'm Prashant Chadha</h1>
-<h3 align="center">Full Stack Web Developer | Java | React | Node.js | DSA</h3>
-<img width="300" height="300" src="https://i.pinimg.com/736x/b8/b2/d3/b8b2d3abc9b9ce9e827ddb37f31d80cf.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantchadha-18&label=Profile%20views&color=0e75b6&style=flat" alt="prashantchadha-18" /> </p>
+<h3 align="center">
+Full Stack Web Developer • Java Developer • DSA Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **DSA, FULL STACK,REACT**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant-chadha-10b9b9323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-chadha-10b9b9323/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pchadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pchadha" height="30" width="40" /></a>
+<p align="center">
+<img src="https://i.pinimg.com/736x/b8/b2/d3/b8b2d3abc9b9ce9e827ddb37f31d80cf.jpg" width="250"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prashantchadha-18&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantchadha-18&show_icons=true&locale=en&layout=compact" alt="prashantchadha-18" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantchadha-18&show_icons=true&locale=en" alt="prashantchadha-18" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchadha-18&" alt="prashantchadha-18" /></p>
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning **DSA, React, Node.js and System Design**
+- 🚀 Interested in Software Development & Backend Engineering
+- 🎯 Solving LeetCode problems daily
+- 📫 Reach me at prashantchadha58@gmail.com
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prashant-chadha-10b9b9323/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/pchadha/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+Java • C++ • JavaScript • Python • SQL
+
+### Frontend
+
+HTML • CSS • React • Bootstrap
+
+### Backend
+
+Node.js • Express.js
+
+### Database
+
+MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • VS Code • Postman
+
+---
+
+## 📌 Featured Projects
+
+### ☀️ Himalayan Solar IP Project
+
+AI-powered solar consultation platform with appointment booking, chatbot and solar calculator.
+
+### 🛡 Smart Women Safety Pendant
+
+IoT-based emergency safety pendant with GPS tracking and SOS alert system.
+
+### 🧾 POS Billing System
+
+Billing application built using HTML, CSS and JavaScript.
+
+### 🦶 Flatfoot Detection using Machine Learning
+
+Research project using HOG + SVM for automatic flatfoot detection.
+
+---
+
+## 🧩 Coding Profiles
+
+- 💛 LeetCode: https://leetcode.com/u/pchadha/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrashantChadha-18&show_icons=true&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantChadha-18&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantChadha-18&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrashantChadha-18&theme=algolia&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
