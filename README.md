@@ -117,5 +117,5 @@ Research project using HOG + SVM for automatic flatfoot detection.
 </p>
 
 ---
-> **"Consistency beats intensity. Keep learning, keep building."** 🚀
+> **"Consistency beats intensity. Keep learning, keep building."** 🚀 "\n"
 ⭐ Thanks for visiting my GitHub profile!
